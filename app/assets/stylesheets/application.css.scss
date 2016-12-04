@@ -26,3 +26,35 @@ h1,h2,h3 {
   height: "200";
   width:auto;
 }
+.Home-callout,.navbar{
+
+    //Gradient from : http://uigradients.com/#
+
+
+background: #00bf8f; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #00bf8f , #001510); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #00bf8f , #001510); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        
+        
+        
+}
+.navbar{
+  border:none;
+}
+
+#newlogo {
+  height: 80px;
+  width:auto;
+  position:relative;
+  margin-top:-15px;
+  margin-left:-25px;
+  border-radius:100%;
+  background-color:#BFFFD9;
+  
+}
+.Home-callout{
+    color:#BFFFD9;
+    margin-top: -20px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
