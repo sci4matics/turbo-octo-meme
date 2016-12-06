@@ -65,3 +65,18 @@ background: linear-gradient(to left, #00bf8f , #001510); /* W3C, IE 10+/ Edge, F
     width:auto;
    
 }
+.navbar-default .navbar-nav > li > a {
+    color: #BFFFD9;
+    font-family:'open-sans',sans-serif;
+}
+body{
+  background-color:#BFFFD9;
+}
+.navbar-default .navbar-nav > li > a:hover{
+  color: #BFFFD9;
+  opacity: 0.5;
+}
+
+#newlogo:hover{
+  opacity: 0.75;
+}
